@@ -37,20 +37,18 @@ Vitalik Linuxu(Xu faxin)
 3.Click to run and it's ok,or open the command line and enter:
 
 ```shell
+
 python3 code.py
+
 ```
 
 ### Fresh
 
 Support loop
 
-Use mainstream language python.
+Use mainstream language python
 
 ### project display
-![Uploading 截屏2021-10-01 下午7.56.23.png…]()
-![Uploading 截屏2021-10-01 下午7.56.59.png…]()
-![Uploading 截屏2021-10-01 下午7.55.37.png…]()
-
 
 ### Developer email
 
