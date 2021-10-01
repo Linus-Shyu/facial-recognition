@@ -47,8 +47,9 @@ Support loop
 Use mainstream language python
 
 ### Project display
-
-
+<img width="1680" alt="截屏2021-10-01 下午7 56 23" src="https://user-images.githubusercontent.com/83543818/135643628-11044166-f610-4dbf-936b-322b59c6654e.png">
+<img width="1680" alt="截屏2021-10-01 下午7 56 59" src="https://user-images.githubusercontent.com/83543818/135643633-44702ac0-1a51-4b35-af93-81957e1efe72.png">
+<img width="1680" alt="截屏2021-10-01 下午7 55 37" src="https://user-images.githubusercontent.com/83543818/135643617-f52702fb-6de1-4c9f-9624-cf52d71d58be.png">
 
 ### Developer email
 
