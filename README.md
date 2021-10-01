@@ -44,7 +44,13 @@ python3 code.py
 
 Support loop
 
-Use mainstream language python
+Use mainstream language python.
+
+### project display
+![Uploading 截屏2021-10-01 下午7.56.23.png…]()
+![Uploading 截屏2021-10-01 下午7.56.59.png…]()
+![Uploading 截屏2021-10-01 下午7.55.37.png…]()
+
 
 ### Developer email
 
