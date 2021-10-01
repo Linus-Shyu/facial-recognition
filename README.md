@@ -46,14 +46,6 @@ Support loop
 
 Use mainstream language python
 
-### Project display
-
-![截屏2021-10-01 下午7.55.37](/Users/linuxufaxin/Desktop/人脸识别/Project display picture/截屏2021-10-01 下午7.55.37.png)
-
-![截屏2021-10-01 下午7.56.23](/Users/linuxufaxin/Desktop/人脸识别/Project display picture/截屏2021-10-01 下午7.56.23.png)
-
-![截屏2021-10-01 下午7.56.59](/Users/linuxufaxin/Desktop/人脸识别/Project display picture/截屏2021-10-01 下午7.56.59.png)
-
 ### Developer email
 
 Awmtft@163.com
