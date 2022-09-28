@@ -26,7 +26,7 @@ face-recognition(1.3.0)
 
 ### Participating developers
 
-Vitalik Linuxu(Xu faxin)
+Linus Shyu
 
 ### Instructions
 
