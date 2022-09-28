@@ -53,6 +53,6 @@ Use mainstream language python
 
 ### Developer email
 
-Awmtft@163.com
+linusshyu@gmail.com
 
 ## Thanks!
